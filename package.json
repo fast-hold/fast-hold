@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "force-stdin-tty": "^0.0.1",
+    "ibackuptool": "^4.0.1",
+    "mocha": "^10.0.0",
+    "tap": "^16.3.0"
+  },
+  "name": "playablevideogeneration",
+  "description": "playable degradiation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "tap **/.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blcksec/PlayableVideoGeneration.git"
+  },
+  "keywords": [
+    "revdev"
+  ],
+  "author": "ungtb10d b||ck$wan#",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blcksec/PlayableVideoGeneration/issues"
+  },
+  "homepage": "https://github.com/blcksec/PlayableVideoGeneration#readme"
+}
